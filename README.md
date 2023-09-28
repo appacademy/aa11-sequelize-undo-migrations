@@ -1,0 +1,1 @@
+# aa11-sequelize-undo-migrations
